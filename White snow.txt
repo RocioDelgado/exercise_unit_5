@@ -1,4 +1,4 @@
-Once upon a time, a king and a queen had a baby daughter, and when she saw her black hair, snowy white skin and red red lips she decided to call her Snow White. Snow White grew up to be a pretty child, but sadly, after a few years, her mother died and her father married again. The new queen, Snow White's stepmother, was a beautiful woman too, but she was very vain. More than anything else she wanted to be certain that she was the most beautiful woman in the world.
+﻿Once upon a time, a king and a queen had a baby daughter, and when she saw her black hair, snowy white skin and red red lips she decided to call her Snow White. Snow White grew up to be a pretty child, but sadly, after a few years, her mother died and her father married again. The new queen, Snow White's stepmother, was a beautiful woman too, but she was very vain. More than anything else she wanted to be certain that she was the most beautiful woman in the world.
 She had a magic mirror, and she used to look at herself in it each clay and say:
 - Mirror, mirror on the wall, Who is the fairest one of all?
 And the mirror would always reply:
@@ -21,3 +21,4 @@ Not long after this a prince came riding through the forest and came to the hill
 Then the queen far away in the palace heard from the mirror:
 - You, oh Queen, are fair, tis true, But Snow White is fairer still than you.
 She was furious that Snow White had escaped death once more. And now the king discovered what mischief she had been up to, and banished her from his land. No one ever saw her or her mirror again. As for Snow White, she said farewell to her kind friends the dwarfs, and rode away on the back of the prince's horse. At his castle they were married and they both lived happily forever afterwards.
+THE END
